@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Jake 👋<br><br>Passionate Embedded Software + Hardware Engineer in MedTech 🧬<br><br>🔗 Check out my website!
+Hi, I'm Jake 👋<br><br>Passionate Embedded Software + Hardware Engineer in MedTech 🧬<br><br>🔗 Check out my website - https://official-portfolio-zeta-sage.vercel.app/#hero
 
 
 ## 🌐 Socials:
