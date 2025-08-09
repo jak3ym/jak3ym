@@ -14,4 +14,4 @@ Hi, I'm Jake 👋<br><br>Passionate Embedded Software + Hardware Engineer in Med
 
 
 
-  ![snake gif](https://github.com/jak3ym/jak3ym/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/jak3ym/jak3ym/blob/output/github-snake-dark.svg)
