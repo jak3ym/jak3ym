@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Jake 👋<br><br>Passionate Embedded Software + Hardware Engineer in MedTech 🧬<br><br>🔗 Check out my website - https://jake-makaling-portfolio.vercel.app/
+Hi, I'm Jake 👋<br><br>Passionate Embedded Software + Hardware Engineer in MedTech 🧬<br><br>🔗 Check out my portfolio - https://jake-makaling-portfolio.vercel.app/
 
 
 ## 🌐 Socials:
